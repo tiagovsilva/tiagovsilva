@@ -1,16 +1,40 @@
-## Hi there 👋
+# Tiago Silva — Infrastructure Architect
 
-<!--
-**tiagovsilva/tiagovsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infrastructure Architect focused on Identity and Cloud Integration.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Expertise
+- Microsoft Entra ID (Azure AD)
+- Identity & Access Management (IAM)
+- Single Sign-On (SSO) & Federation
+- Azure & Google Cloud Platform (GCP)
+- Google Workspace integration
+- Conditional Access & Security
+
+---
+
+## What I Do
+- Design identity architectures for global environments  
+- Implement SSO and provisioning across enterprise applications  
+- Integrate Entra ID with platforms like Google Workspace  
+- Automate identity operations using PowerShell and Microsoft Graph  
+
+---
+
+## Experience Highlights
+- 10+ years working with Microsoft ecosystems  
+- Migration from on-prem AD to cloud-only identity (Entra ID)  
+- Multi-cloud identity integration (Azure + GCP + Google Workspace)  
+
+---
+
+## Current Focus
+- Identity-driven architecture  
+- Cloud security and governance  
+- Automation and scalability  
+
+---
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/tvieirasilva
