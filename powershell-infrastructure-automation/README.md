@@ -11,9 +11,9 @@ Documented PowerShell automation for identity, Microsoft cloud services, Windows
 
 | Area | Includes |
 |---|---|
-| [Cloud](cloud/) | Microsoft Entra ID, Microsoft Graph, Exchange Online, SharePoint Online, Azure File Sync |
-| [Hybrid](hybrid/) | Active Directory and Microsoft cloud correlation workflows |
-| [On-premises](onpremise/) | Active Directory, Windows, filesystem, WSUS, and VMware |
+| [Cloud](docs/SCRIPT-CATALOG.md#cloud) | Microsoft Entra ID, Microsoft Graph, Exchange Online, SharePoint Online, Azure File Sync |
+| [Hybrid](docs/SCRIPT-CATALOG.md#hybrid) | Active Directory and Microsoft cloud correlation workflows |
+| [On-premises](docs/SCRIPT-CATALOG.md#on-premises) | Active Directory, Windows, filesystem, WSUS, and VMware |
 
 Use the [script catalog](docs/SCRIPT-CATALOG.md) for a one-line description of every script.
 
