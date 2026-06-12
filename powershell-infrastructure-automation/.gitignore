@@ -1,0 +1,16 @@
+*.log
+*.csv
+*.html
+*.xml
+*.json
+*.clixml
+*.zip
+*.rar
+*.exe
+*.chm
+.env
+.env.*
+credentials/
+output/
+reports/
+secrets/
