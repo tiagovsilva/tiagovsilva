@@ -14,3 +14,5 @@ credentials/
 output/
 reports/
 secrets/
+tests/
+PSScriptAnalyzerSettings.psd1

@@ -1,6 +1,5 @@
 # PowerShell Infrastructure Automation
 
-[![PowerShell quality](https://github.com/tiagovsilva/tiagovsilva/actions/workflows/powershell-quality.yml/badge.svg)](https://github.com/tiagovsilva/tiagovsilva/actions/workflows/powershell-quality.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../LICENSE)
 
 Documented PowerShell automation for identity, Microsoft cloud services, Windows infrastructure, WSUS, and VMware.
@@ -45,10 +44,9 @@ Review [docs/COMPATIBILITY.md](docs/COMPATIBILITY.md) before selecting a runtime
 
 Use [docs/SCRIPT-CATALOG.md](docs/SCRIPT-CATALOG.md) to find scripts by platform and purpose.
 
-## Support and contributions
+## Support
 
 - Read [SECURITY.md](SECURITY.md) before reporting a security issue.
-- Contributions follow the repository-level [CONTRIBUTING.md](../CONTRIBUTING.md).
 - These scripts are provided under the [MIT License](../LICENSE).
 
 Scripts must be reviewed and tested in a controlled non-production environment before production use.
