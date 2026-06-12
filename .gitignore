@@ -1,0 +1,9 @@
+.editorconfig
+.gitattributes
+.github/
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+
+**/tests/
+**/PSScriptAnalyzerSettings.psd1
+
